@@ -30,11 +30,10 @@
 
 ## 📌 What I'm Working On
 - Front-End projects  
-- Improving JavaScript & React skills  
-- Data analysis projects  
+
 
 ---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-talha-hassan-04036b266
-- 📧 Email: your-email@gmail.com
+- 📧 Email: mtalha9005020@gmail.com.com
