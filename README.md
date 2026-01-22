@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Front-End Developer passionate about building modern & responsive web applications  
+- 💻 💻 Front-End Developer specialized in React.js  
 - 🎓 Data Science Student  
 - 🌱 Currently learning **React & Data Analysis**
 - 📍 Based in Egypt
